@@ -8,7 +8,7 @@ install a module named 'django' in your computer by running command
 pip intsall django
 </pre>
 
-after that move in project banking folder and in your current directory there must be manage.py file
+after that move in project's banking folder and in your current directory there must be manage.py file
 now run command
 <pre>python manage.py runserver
 </pre>
