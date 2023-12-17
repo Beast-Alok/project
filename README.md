@@ -26,3 +26,12 @@ Currently there are only six functionalies in my banking website
 5)Money Transfer
 6)Passbook system or transactions history
 </pre>
+
+You can keep an eye over database from admin panel by login in admin panel 
+
+http://127.0.0.1:8000/admin  enter this url in your browser and enter username and password
+<pre>
+
+  username : "admin"
+  password : "password"
+</pre>
