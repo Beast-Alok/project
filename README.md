@@ -5,7 +5,7 @@ to run this project you need to install python in your computer
 after that
 install a module named 'django' in your computer by running command
 <pre>
-pip intsall django
+pip install django
 </pre>
 
 after that move in project's banking folder and in your current directory there must be manage.py file
